@@ -14,6 +14,7 @@
 
 #pragma once
 
+#include <vector>
 #include <cooperative_groups.h>
 #include <gunrock/util/array_utils.cuh>
 #include <gunrock/util/cuda_properties.cuh>
